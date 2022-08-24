@@ -13,10 +13,11 @@ I am a junior web developer from the <a href="https://4geeks.com/" target="blank
 
 - 👨‍💻 All of my projects are available at [https://github.com/alburquenqueletelier](https://github.com/alburquenqueletelier)
 
-- 📫 How to reach me **+56 9 79577547 - alburquenque.letelier@gmail.com**
+- 📫 How to reach me **alburquenque.letelier@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://wa.me/56979577547" target="blank"><img height="30" width="40" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174879.png" alt="logo-whatsapp"/></a>
 <a href="https://linkedin.com/in/alburquenque-letelier/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alburquenque-letelier/" height="30" width="40" /></a>
 <a href="https://instagram.com/baal_sw/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/baal_sw/?hl=en" height="30" width="40" /></a>
 </p>
