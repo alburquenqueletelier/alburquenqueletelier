@@ -7,9 +7,9 @@ I am a junior web developer from the <a href="https://4geeks.com/" target="blank
 
 
 
-- 🔭 I’m currently working on project [Artidochelone](https://github.com/alburquenqueletelier/Artidochelone)
+- 🔭 I’m currently working on project [IRU](https://github.com/alburquenqueletelier/IRU)
 
-- 🌱 I’m currently learning **Flask and React**
+- 🌱 I’m currently learning **Django and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alburquenqueletelier](https://github.com/alburquenqueletelier)
 
