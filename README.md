@@ -6,10 +6,9 @@ I am a junior web developer from the <a href="https://4geeks.com/" target="blank
 </p>
 
 
+<!-- - 🔭 I’m currently working on project [IRU](https://github.com/alburquenqueletelier/IRU)  -->
 
-- 🔭 I’m currently working on project [IRU](https://github.com/alburquenqueletelier/IRU)
-
-- 🌱 I’m currently learning **Django and React**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alburquenqueletelier](https://github.com/alburquenqueletelier)
 
