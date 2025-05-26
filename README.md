@@ -5,7 +5,7 @@
 I am a junior web developer from the <a href="https://4geeks.com/" target="blank">4geeks academy <img width="20px" src="https://raw.githubusercontent.com/4GeeksAcademy/About-4Geeks-Academy/master/site/static/background_art.jpg" alt="4geeks-icon"/></a> and an industrial civil engineer with a major in IT from the <a href="https://www.uai.cl/" target="blank"> Adolfo Ibañez University <img width="50px" align="center" src="https://www.redbionova.com/wp-content/uploads/2016/12/logo-uai.jpg" /> </a>, Chile
 </p>
 
-- 🌱 I’m currently learning **Next Js** and **React Native**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alburquenqueletelier](https://github.com/alburquenqueletelier)
 
